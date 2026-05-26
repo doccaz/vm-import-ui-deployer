@@ -1,0 +1,6 @@
+{
+  "name": "VM Import UI Installer",
+  "description": "Installer tool that receives a kubeconfig and deploys the Harvester VM Import UI onto a Kubernetes cluster.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
